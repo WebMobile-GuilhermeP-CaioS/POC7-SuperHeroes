@@ -1,4 +1,4 @@
-# POC5 - React
+# POC7 - Super Heroes
 
 ## Alunos:
 
