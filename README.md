@@ -6,13 +6,6 @@
 * Guilherme Picoli. RA: 10389843;
 * Caio Filardi. RA: 10341128.
 
-## Enunciado
-
-Na sua POC você deve explicar o funcionamento dos seguintes conceitos de REACT, usando Next.js:
-- Estrutura de Projeto NextJS 14 ou superior
-- Criação de componentes simples (sem estado)
-- Estilo CSS (global e módulo). 
-
 ## POC 5
 
 ### **Criação do Projeto NextJS 14**:
